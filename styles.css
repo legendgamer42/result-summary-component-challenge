@@ -146,6 +146,7 @@ body {
   .container{
     grid-template-columns: 1fr;
     width: 100%;
-    height:auto;
   }
+  body,html{
+    height:auto;
 }
